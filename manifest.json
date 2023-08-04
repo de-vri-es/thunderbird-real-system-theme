@@ -6,8 +6,8 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "thunderbird-real-system-theme@de-vri.es",
-            "strict_min_version": "115",
-            "strict_max_version": "116"
+            "strict_min_version": "115.0",
+            "strict_max_version": "116.0"
         }
     },
     "theme": {
