@@ -1,0 +1,67 @@
+{
+    "manifest_version": 2,
+    "name": "Real System Theme",
+    "version": "0.1.0",
+    "description": "Theme really following system colors for Thunderbird 115+, https://github.com/de-vri-es/thunderbird-real-system-theme",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "thunderbird-real-system-theme@de-vri.es",
+            "strict_min_version": "115",
+            "strict_max_version": "116"
+        }
+    },
+    "theme": {
+        "colors": {
+            "frame": "Canvas",
+
+            "tab_text": "ButtonText",
+            "tab_line": "AccentColor",
+            "tab_loading": "ButtonText",
+            "tab_background_text": "GrayText",
+
+            "toolbar": "ButtonFace",
+            "toolbar_text": "ButtonText",
+            "toolbar_field": "Field",
+            "toolbar_field_text": "FieldText",
+            "toolbar_field_border": "ButtonBorder",
+            "toolbar_field_hightlight": "Highlight",
+            "toolbar_field_hightlight_text": "HighlightText",
+            "toolbar_field_focus": "Field",
+            "toolbar_field_text_focus": "FieldText",
+            "toolbar_field_border_focus": "Highlight",
+            "toolbar_bottom_separator": "ButtonBorder",
+            "toolbar_top_separator": "ButtonBorder",
+            "toolbar_vertical_separator": "ButtonBorder",
+
+            "button_background_active": "ButtonFace",
+            "button_background_hover": "AccentColor",
+
+            "popup": "Canvas",
+            "popup_text": "CanvasText",
+            "popup_border": "CanvasText",
+            "popup_highlight": "Highlight",
+            "popup_highlight_text": "HighlightText",
+
+            "sidebar": "Canvas",
+            "sidebar_text": "CanvasText",
+            "sidebar_border": "color-mix(in hsl, ButtonBorder 60%, transparent)",
+            "sidebar_highlight": "AccentColor",
+            "sidebar_highlight_border": "AccentColorText",
+
+            "tree_view_color": "CanvasText",
+            "tree_view_bg": "Canvas",
+
+            "layout_background_0": "color-mix(in srgb, Canvas 60%, transparent)",
+            "layout_background_1": "color-mix(in srgb, Canvas 80%, transparent)"
+        }
+    },
+    "theme_experiment": {
+        "colors": {
+            "tree_view_bg": "--tree-view-bg",
+            "tree_view_color": "--tree-view-color",
+            "layout_background_0": "--layout-background-0",
+            "layout_background_1": "--layout-background-1"
+        },
+        "stylesheet": "style.css"
+    }
+}
