@@ -7,7 +7,7 @@
         "gecko": {
             "id": "thunderbird-real-system-theme@de-vri.es",
             "strict_min_version": "115.0",
-            "strict_max_version": "125.0"
+            "strict_max_version": "118.0"
         }
     },
     "theme": {
