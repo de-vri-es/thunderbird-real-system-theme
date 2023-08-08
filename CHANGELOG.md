@@ -1,4 +1,4 @@
-# main
+# Version 0.1.2 - 2023-08-08
 - Do not move around menu, toolbar and tabs.
 - Lower maximum allowed Thunderbird version to 118 to allow uploading to addons.thunderbird.net.
 
