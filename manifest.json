@@ -61,7 +61,6 @@
             "tree_view_color": "--tree-view-color",
             "layout_background_0": "--layout-background-0",
             "layout_background_1": "--layout-background-1"
-        },
-        "stylesheet": "style.css"
+        }
     }
 }
