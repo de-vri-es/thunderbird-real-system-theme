@@ -51,8 +51,8 @@
             "tree_view_color": "CanvasText",
             "tree_view_bg": "Canvas",
 
-            "layout_background_0": "color-mix(in srgb, Canvas 60%, transparent)",
-            "layout_background_1": "color-mix(in srgb, Canvas 80%, transparent)"
+            "layout_background_0": "Canvas",
+            "layout_background_1": "Canvas"
         }
     },
     "theme_experiment": {
