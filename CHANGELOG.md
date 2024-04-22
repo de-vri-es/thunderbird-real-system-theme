@@ -1,4 +1,4 @@
-# main
+# Version 0.1.3 - 2024-04-22
 - Do not make pop-ups and menus transparent.
 
 # Version 0.1.2 - 2023-08-08
